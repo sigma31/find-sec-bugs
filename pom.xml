@@ -230,7 +230,7 @@
             <dependency>
                 <groupId>com.github.spotbugs</groupId>
                 <artifactId>spotbugs</artifactId>
-                <version>4.8.3</version>
+                <version>4.9.7</version>
             </dependency>
 
             <!-- Artefact definition of the module -->
@@ -346,7 +346,7 @@
             <name>GNU Lesser General Public License</name>
             <url>http://www.gnu.org/copyleft/lesser.html</url>
             <distribution>repo</distribution>
-            <comments />
+            <comments/>
         </license>
     </licenses>
 
